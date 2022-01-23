@@ -21,6 +21,7 @@ export const GlobalStyle = createGlobalStyle`
   body {
     margin: 0;
     padding: 0;
+    background: #181a1b;
     
     h1 {
       font-size: 2rem;
