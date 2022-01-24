@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.ad8af1a5.js",
+    "static/media/nasa-logo.svg": "/static/media/nasa-logo.78fcba4d9325e8ac5a2e15699d035ee0.svg",
+    "index.html": "/index.html",
+    "static/media/search-icon.svg": "/static/media/search-icon.cd820f5a55f7cd57d7131f1672d43473.svg",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.ad8af1a5.js.map": "/static/js/main.ad8af1a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ad8af1a5.js"
+  ]
+}
