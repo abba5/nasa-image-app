@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.ad8af1a5.js",
-    "static/media/nasa-logo.svg": "/static/media/nasa-logo.78fcba4d9325e8ac5a2e15699d035ee0.svg",
-    "index.html": "/index.html",
-    "static/media/search-icon.svg": "/static/media/search-icon.cd820f5a55f7cd57d7131f1672d43473.svg",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.ad8af1a5.js.map": "/static/js/main.ad8af1a5.js.map"
+    "main.css": "/nasa-image-app/static/css/main.e6c13ad2.css",
+    "main.js": "/nasa-image-app/static/js/main.71f7d9c0.js",
+    "static/media/nasa-logo.svg": "/nasa-image-app/static/media/nasa-logo.78fcba4d9325e8ac5a2e15699d035ee0.svg",
+    "index.html": "/nasa-image-app/index.html",
+    "static/media/search-icon.svg": "/nasa-image-app/static/media/search-icon.cd820f5a55f7cd57d7131f1672d43473.svg",
+    "main.e6c13ad2.css.map": "/nasa-image-app/static/css/main.e6c13ad2.css.map",
+    "main.71f7d9c0.js.map": "/nasa-image-app/static/js/main.71f7d9c0.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ad8af1a5.js"
+    "static/js/main.71f7d9c0.js"
   ]
 }
