@@ -1,13 +1,11 @@
-import { DateObject } from "react-multi-date-picker";
 
 export const getOffsetDate = (offset) => {
-  const timestamp = new DateObject()
-    .convert()
-    .subtract(offset, "days")
-    .toLocaleString("en-US", { timeZone: "America/New_York" })
-    .replaceAll("/", "-");
-
-  return timestamp;
+  const timestamp = new Date();
+  timestamp.setDate(timestamp.getDate() - offset);
+  var [month, date, year] = timestamp.toLocaleDateString('en-US',
+    { timeZone: 'America/New_York' }
+  ).split('/');
+  return [year, month, date].join('-');
 }
 
 export const isValidDate = (dateString) => {
